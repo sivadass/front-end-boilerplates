@@ -1,0 +1,27 @@
+{
+  "name": "gulp-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal gulp sass boilerplate",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivadass/gulp-sass-boilerplate.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass"
+  ],
+  "author": "Sivadass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivadass/gulp-sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sivadass/gulp-sass-boilerplate#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
