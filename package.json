@@ -1,5 +1,5 @@
 {
-  "name": "soft-grand",
+  "name": "gulp-task",
   "version": "1.0.0",
   "description": "",
   "main": "gulp-config.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/sivadass/soft-grand.git"
+    "url": "https://github.com/sivadass/gulp-task.git"
   },
   "author": "Sivadass N",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/sivadass/soft-grand/issues"
+    "url": "https://github.com/sivadass/gulp-task/issues"
   },
-  "homepage": "https://gitlab.com/sivadass/soft-grand#README",
+  "homepage": "https://github.com/sivadass/gulp-task",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
