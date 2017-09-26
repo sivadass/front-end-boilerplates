@@ -7,7 +7,7 @@ Goto the project folder and install required dependencies:
 npm install
 ```
 
-And run Gulp to watch for code changes and generate **script.min.js** and **styles.min.css**:
+And run Gulp to watch for code changes and generate **script.min.js** and **style.min.css**:
 ```
 gulp watch
 ```
