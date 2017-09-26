@@ -1,27 +1,26 @@
 {
-  "name": "gulp-sass-boilerplate",
+  "name": "soft-grand",
   "version": "1.0.0",
-  "description": "Minimal gulp sass boilerplate",
-  "main": "gulpfile.js",
+  "description": "",
+  "main": "gulp-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sivadass/gulp-sass-boilerplate.git"
+    "url": "git+https://gitlab.com/sivadass/soft-grand.git"
   },
-  "keywords": [
-    "gulp",
-    "sass"
-  ],
-  "author": "Sivadass",
+  "author": "Sivadass N",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sivadass/gulp-sass-boilerplate/issues"
+    "url": "https://gitlab.com/sivadass/soft-grand/issues"
   },
-  "homepage": "https://github.com/sivadass/gulp-sass-boilerplate#readme",
+  "homepage": "https://gitlab.com/sivadass/soft-grand#README",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
   }
 }
